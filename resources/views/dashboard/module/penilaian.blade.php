@@ -15,7 +15,7 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="bg-[#CCE0DD] h-screen">
+<body class="bg-[#CCE0DD] h-full">
     <center>
         <h1 class=" font-extrabold text-[30px] tracking-[.20em] text-[#173A6F] mt-10"> DAFTAR NILAI SISWA PRAKERIN</h1>
     </center>
